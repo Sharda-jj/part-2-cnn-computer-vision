@@ -1,8 +1,4 @@
 # Part 2: Computer Vision Problem Formulation and CNN Prototype
-
-Prepared by: Sharda Jadhav  
-MBA in Data Analytics
-
 ---
 
 # Project Overview
